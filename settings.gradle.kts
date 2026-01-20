@@ -1,0 +1,1 @@
+rootProject.name = "Goblin_210_episode_1"
